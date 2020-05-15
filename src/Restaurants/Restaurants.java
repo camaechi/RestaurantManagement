@@ -793,5 +793,5 @@ UIManager.setLookAndFeel("com.jtattoo.plaf.aluminium.AluminiumLookAndFeel");
     private javax.swing.JLabel jlblVeggieBurger;
     private javax.swing.JLabel jlblWater;
     private javax.swing.JTextArea receiptArea;
-    // End of variables declaration//GEN-END:variables
+    // End of variables declaration//GEN-END:variable
 }
