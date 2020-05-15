@@ -17,9 +17,7 @@ public class ItemCalculation extends Items{
     private double salesTax;
     private double totalCostPlusTax;
 
-    /**
-     *
-     */
+   
  
     
     public ItemCalculation () {
