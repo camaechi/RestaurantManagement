@@ -48,7 +48,7 @@ public class Items {
     private JFrame frame;
 
     
-    public Items() {
+    public Items() { //items with prices
         
         this.chickenBowl = 7.99;
         this.chickenBurgerMeal = 10.99;
